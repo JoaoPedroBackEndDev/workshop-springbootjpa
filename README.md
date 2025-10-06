@@ -107,17 +107,6 @@ Adicione testes unitários e de integração para controllers, services e reposi
 
 ---
 
-## ✅ Boas práticas para evolução (sugestões)
-
-- Usar DTOs para entrada/saída de dados e evitar expor entidades JPA diretamente.  
-- Validar requests com `@Valid` e anotações Bean Validation.  
-- Tratar exceções com `@ControllerAdvice`.  
-- Adicionar autenticação/autorização (Spring Security + JWT) para endpoints sensíveis.  
-- Documentar a API com Swagger / Springdoc OpenAPI.  
-- Adicionar testes automatizados e integração contínua.
-
----
-
 ## 🧾 Observação importante
 
 Este projeto é **apenas para estudo**. Não use senhas ou dados sensíveis em produção. As estruturas e configurações (por exemplo, armazenamento de senhas ou políticas de CORS) devem ser aprimoradas antes de qualquer uso real.
