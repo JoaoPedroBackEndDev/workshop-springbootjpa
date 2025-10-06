@@ -124,7 +124,7 @@ Sinta-se livre para:
 
 ## 📜 Licença
 
-Use para fins acadêmicos e pessoais. Coloque aqui a licença que desejar (ex: MIT, Apache 2.0) se quiser liberar formalmente.
+Use para fins acadêmicos e pessoais.
 
 ---
 
