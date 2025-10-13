@@ -4,7 +4,7 @@ Este repositório contém um **projeto backend** em Java com **Spring Boot** e *
 
 ---
 
-## 🧠 Objetivo do Projeto
+## Objetivo do Projeto
 
 Praticar os principais conceitos do ecossistema Spring:
 - Construir uma API REST com Spring Boot.
@@ -15,7 +15,7 @@ Praticar os principais conceitos do ecossistema Spring:
 
 ---
 
-## 🛠 Tecnologias
+## Tecnologias
 
 - Java 17+  
 - Spring Boot  
@@ -25,7 +25,7 @@ Praticar os principais conceitos do ecossistema Spring:
 
 ---
 
-## 🗂 Estrutura sugerida (exemplo)
+## Estrutura sugerida (exemplo)
 
 ```
 src/
@@ -43,7 +43,7 @@ src/
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 1. Clone o repositório:
 ```bash
@@ -66,7 +66,7 @@ A API costuma ficar disponível em `http://localhost:8080`.
 
 ---
 
-## 📦 Entidades (exemplo)
+## Entidades (exemplo)
 
 - **Product**: id, nome, descrição, preço, quantidade em estoque.  
 - **User**: id, nome, email, senha (não armazenar sem hashing em produção).  
@@ -75,7 +75,7 @@ A API costuma ficar disponível em `http://localhost:8080`.
 
 ---
 
-## 📡 Endpoints de exemplo (ajuste conforme o código)
+## Endpoints de exemplo (ajuste conforme o código)
 
 **Produtos**
 - `GET /products` — lista produtos
@@ -96,7 +96,7 @@ A API costuma ficar disponível em `http://localhost:8080`.
 
 ---
 
-## 🧪 Testes
+## Testes
 
 Executar testes:
 ```bash
@@ -107,13 +107,13 @@ Adicione testes unitários e de integração para controllers, services e reposi
 
 ---
 
-## 🧾 Observação importante
+## Observação importante
 
 Este projeto é **apenas para estudo**. Não use senhas ou dados sensíveis em produção. As estruturas e configurações (por exemplo, armazenamento de senhas ou políticas de CORS) devem ser aprimoradas antes de qualquer uso real.
 
 ---
 
-## 🤝 Contribuições
+## Contribuições
 
 Sinta-se livre para:
 - Fazer fork e personalizar para seus estudos;
@@ -124,7 +124,7 @@ Sinta-se livre para:
 
 ## 📜 Licença
 
-Use para fins acadêmicos e pessoais.
+MIT LICENSE
 
 ---
 
