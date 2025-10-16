@@ -96,17 +96,6 @@ A API costuma ficar disponível em `http://localhost:8080`.
 
 ---
 
-## Testes
-
-Executar testes:
-```bash
-mvn test
-```
-
-Adicione testes unitários e de integração para controllers, services e repositórios conforme sua evolução.
-
----
-
 ## Observação importante
 
 Este projeto é **apenas para estudo**. Não use senhas ou dados sensíveis em produção. As estruturas e configurações (por exemplo, armazenamento de senhas ou políticas de CORS) devem ser aprimoradas antes de qualquer uso real.
